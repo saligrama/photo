@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://saligrama.io/photo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Aditya's Photos"
+author = "Aditya Saligrama"
+copyright = "© 2022 Aditya Saligrama"
+paginate = 5000
+
+theme = ["newsroom", "hugo-shortcode-gallery"]
