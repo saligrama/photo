@@ -6,3 +6,6 @@ copyright = "© 2022 Aditya Saligrama"
 paginate = 5000
 
 theme = ["newsroom", "hugo-shortcode-gallery"]
+
+[params]
+    mainSections = ["aviation", "nature", "misc"]
