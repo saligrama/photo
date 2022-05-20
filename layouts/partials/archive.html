@@ -1,0 +1,27 @@
+<div class="archive wrap mt">
+  <h1 class="archive_title">{{ path.Base .Page.Permalink }}</h1>
+  {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "").ByPublishDate.Reverse }}
+  {{- $scratch := newScratch }}
+  {{- range $index, $value := $paginator.Pages }}
+    {{ if isset .Params "image" }}
+      {{ $scratch.Set "image" .Params.image }}
+    {{ else }}
+      {{ $scratch.Set "image" "thumbnail.svg" }}
+    {{ end }}
+    {{ $image := $scratch.Get "image" }}
+    {{ $bg := (absURL (printf "images/%s" $image)) }}
+    {{- if in $image "https://" }}
+      {{- $bg = $image }}
+    {{- end }}
+  <a class="archive_item" href="{{ .Permalink }}">
+    <div class = 'mb-1 article_thumb' style='background-image: url({{ $bg }})'></div>
+    {{- with .Date -}}
+    <time class="post_date">{{ dateFormat "January 2, 2006" . }}</time>
+    {{- end -}}
+    <h3 class="article_title">{{ .Title }}</h3>
+    {{- with .Summary -}}
+    <p>{{ truncate 150 .  }}</p>
+    {{- end -}}
+  </a>
+  {{- end -}}
+</div>
