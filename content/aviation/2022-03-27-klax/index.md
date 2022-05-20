@@ -9,4 +9,4 @@ Photos from a plane spotting trip to LAX with Jomar Hontiveros.
 
 <!--more-->
 
-{{< gallery match="img/2022-03-27-klax/*.jpg" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="720x405 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" loadJQuery=true >}}
+{{< gallery match="img/*.jpg" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="720x405 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" loadJQuery=true >}}
