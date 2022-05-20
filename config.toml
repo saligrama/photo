@@ -13,3 +13,5 @@ theme = ["newsroom", "hugo-shortcode-gallery"]
     googleAnalytics = "G-L1P68K8054"
     twitter = "@saligrama_a"
     disableDarkMode = true
+    image = "favorites.jpg"
+    description = "Aditya Saligrama's photography portfolio"
