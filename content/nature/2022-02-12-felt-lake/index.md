@@ -1,7 +1,7 @@
 ---
 title: "Palo Alto, CA (Felt Lake)"
 date: 2022-02-12T08:00:00-08:00
-draft: true
+draft: false
 image: 2022-02-12-felt-lake.jpg
 ---
 

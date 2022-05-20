@@ -1,7 +1,7 @@
 ---
 title: "Palo Alto, CA (Renzel Wetlands)"
 date: 2022-01-22T08:00:00-08:00
-draft: true
+draft: false
 image: 2022-01-22-renzel.jpg
 ---
 

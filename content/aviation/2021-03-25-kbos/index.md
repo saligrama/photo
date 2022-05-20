@@ -1,7 +1,7 @@
 ---
 title: "Boston, MA (BOS)"
 date: 2021-03-25T16:00:00-04:00
-draft: true
+draft: false
 image: 2021-03-25-kbos.jpg
 ---
 

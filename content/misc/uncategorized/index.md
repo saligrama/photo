@@ -1,7 +1,7 @@
 ---
 title: "Uncategorized"
 date: 2022-01-08T09:05:57-08:00
-draft: true
+draft: false
 image: uncategorized.jpg
 ---
 

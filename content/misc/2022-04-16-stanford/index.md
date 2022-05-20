@@ -1,7 +1,7 @@
 ---
 title: "Stanford, CA"
 date: 2022-04-16T06:00:00-07:00
-draft: true
+draft: false
 image: 2022-04-16-stanford.jpg
 ---
 

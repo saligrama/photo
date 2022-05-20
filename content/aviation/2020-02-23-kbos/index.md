@@ -1,7 +1,7 @@
 ---
 title: "Boston, MA (BOS)"
 date: 2020-02-23T12:30:00-04:00
-draft: true
+draft: false
 image: 2020-02-23-kbos.jpg
 ---
 

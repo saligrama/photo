@@ -1,7 +1,7 @@
 ---
 title: "Los Angeles, CA (LAX)"
 date: 2022-03-27T12:36:26-07:00
-draft: true
+draft: false
 image: 2022-03-27-klax.jpg
 ---
 
