@@ -9,3 +9,7 @@ theme = ["newsroom", "hugo-shortcode-gallery"]
 
 [params]
     mainSections = ["aviation", "nature", "misc"]
+    locale = "en_US"
+    googleAnalytics = "G-L1P68K8054"
+    twitter = "@saligrama_a"
+    disableDarkMode = true
