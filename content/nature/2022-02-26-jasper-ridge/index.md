@@ -1,6 +1,6 @@
 ---
 title: "Palo Alto, CA (Jasper Ridge Biological Preserve)"
-date: 2022-02-26T08:00:00-07:00
+date: 2022-02-26T08:00:00-08:00
 draft: true
 image: 2022-02-26-jasper-ridge.jpg
 ---
