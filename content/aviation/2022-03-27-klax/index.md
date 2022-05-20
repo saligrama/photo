@@ -5,7 +5,7 @@ draft: true
 image: 2022-03-27-klax.jpg
 ---
 
-Photos from a plane spotting shoot at LAX with Jomar Hontiveros.
+Photos from a plane spotting trip to LAX with Jomar Hontiveros.
 
 <!--more-->
 

@@ -1,7 +1,7 @@
 baseURL = 'https://saligrama.io/photo/'
 languageCode = 'en-us'
 title = "Aditya's Photos"
-author = "Aditya Saligrama"
+author = 'Aditya Saligrama'
 copyright = "© 2022 Aditya Saligrama"
 paginate = 5000
 
