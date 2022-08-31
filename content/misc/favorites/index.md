@@ -1,6 +1,6 @@
 ---
 title: "Favorites"
-date: 2022-05-19T22:53:57-07:00
+date: 2022-08-31T00:15:57-08:00
 draft: false
 image: favorites.jpg
 ---

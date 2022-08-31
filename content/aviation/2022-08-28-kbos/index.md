@@ -5,7 +5,7 @@ draft: false
 image: 2022-08-28-kbos.jpg
 ---
 
-Photos from a plane spotting trip to LAX with Jomar Hontiveros.
+Photos from a plane spotting trip to BOS with Sidharth Anantha.
 
 <!--more-->
 
