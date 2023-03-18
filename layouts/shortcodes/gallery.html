@@ -75,6 +75,10 @@
 		/* inline css from assets folder */
 		{{ (resources.Get "shortcode-gallery/filterbar.sass" | toCSS).Content | safeCSS }}
 	{{ end }}
+
+	#swipebox-description {
+		color: #fff;
+	}
 </style>
 
 <!--
