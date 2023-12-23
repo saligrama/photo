@@ -1,9 +1,11 @@
 ---
-title: "Favorites"
-date: 2023-12-23T12:00:00-05:00
+title: "Boston, MA (BOS)"
+date: 2023-12-22T12:00:00-05:00
 draft: false
-image: favorites.jpg
+image: 2023-12-22-kbos.jpg
 ---
+
+Photos from a plane spotting trip to BOS with Sidharth Anantha.
 
 <!--more-->
 
